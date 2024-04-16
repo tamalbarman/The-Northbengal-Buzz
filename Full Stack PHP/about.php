@@ -253,7 +253,8 @@
 
       </div>
 
-      <div class="credit"> © 2024 <span>The Northbengal Buzz</span> | All rights reserved. </div>
+      <div class="credit"> © 2024 <span>The Northbengal Buzz</span> | All rights reserved |
+        Developed by <span>Tamal Barman</span> </div>
 
    </section>
 
